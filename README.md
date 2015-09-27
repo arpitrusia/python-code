@@ -1,2 +1,4 @@
 # python-code
-Codes for learning python
+Codes for learning python.
+
+I love to code
